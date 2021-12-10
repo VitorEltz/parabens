@@ -19,7 +19,7 @@ function activeBday() {
 
 function createBdayTitle() {
     const title = document.createElement('h1');
-    title.textContent = 'Parabéns Cris <3';
+    title.textContent = 'Parabéns Cris';
     title.classList.add('blink-title');
 
     return title;
